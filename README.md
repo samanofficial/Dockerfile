@@ -1,2 +1,3 @@
 # Dockerfile
-Launching Ubuntu OS in Docker
+-Launching Ubuntu OS in Docker
+-Launching Wordpress in it
